@@ -1,9 +1,10 @@
 ## Olá eu sou Jefferson Horbach Santana! 🖐
 
 - 👧 Pai da Duda, Nina e Amy
-- 👩‍💻 Atualmente trabalhando com java back-end 
-- 🎓 Graduando o 6º módulo em Análise e Desenvolvimento em Sistemas
-- 📚 Estudando Desenvolvimento Mobile
+- 👩‍💻 Desenvolvedor java back-end 
+- 🎓 Graduado em Análise e Desenvolvimento em Sistemas
+- 👨‍🏫 Graduando ultimo móidulo de Formação Pedagógica em Informática 
+- ☁️ Estudando Computação em Nuvem AWS
 - 🙂 Pronomes: dele/Ele
 <br>
 
