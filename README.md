@@ -1,4 +1,4 @@
-## Olá eu sou Jefferson Horbach Santana! 🖐
+## Olá eu sou Jefferson Santana! 🖐
 
 - 👧 Pai da Duda, Nina e Amy
 - 👩‍💻 Desenvolvedor java back-end 
