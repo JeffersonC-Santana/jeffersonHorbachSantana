@@ -1,7 +1,7 @@
 ## Olá eu sou Jefferson Santana! 🖐
 
 - 👧 Pai da Duda, Nina e Amy
-- 👩‍💻 Desenvolvedor java back-end 
+- 👩‍💻 Desenvolvedor Fullstack 
 - 🎓 Graduado em Análise e Desenvolvimento em Sistemas
 - 👨‍🏫 Graduando ultimo móidulo de Formação Pedagógica em Informática 
 - ☁️ Estudando Computação em Nuvem AWS
