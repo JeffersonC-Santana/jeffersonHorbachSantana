@@ -3,8 +3,8 @@
 - 👧 Pai da Duda, Nina e Amy
 - 👩‍💻 Desenvolvedor Fullstack 
 - 🎓 Graduado em Análise e Desenvolvimento em Sistemas
-- 👨‍🏫 Graduando ultimo móidulo de Formação Pedagógica em Informática 
-- ☁️ Estudando Computação em Nuvem AWS
+- 👨‍🏫 Licenciado em Formação Pedagógica em Informática
+- 🎓 Cursando Pós Graduação em Gestão de Projetos
 - 🙂 Pronomes: dele/Ele
 <br>
 
